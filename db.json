@@ -1,0 +1,69 @@
+{
+  "seller": [],
+  "user": [
+    {
+      "name": "ahmed",
+      "email": "aa",
+      "password": "aaaa",
+      "id": 1
+    }
+  ],
+  "products": [
+    {
+      "name": "lapTop",
+      "price": "1230",
+      "category": "computer",
+      "color": "blue",
+      "description": "New Product",
+      "image": "https://picsum.photos/id/807/900/500",
+      "id": 4
+    },
+    {
+      "name": "lapTop",
+      "price": "1230",
+      "category": "computer",
+      "color": "green",
+      "description": "New Product",
+      "image": "https://mms.businesswire.com/media/20190122005342/en/701657/5/Samsung_Display_UHD_15.6_OLED_for_NBs_-_FMP.jpg?download=1",
+      "id": 5
+    },
+    {
+      "name": "lapTop",
+      "price": "1230",
+      "category": "computer",
+      "color": "blue",
+      "description": "New Product",
+      "image": "https://picsum.photos/id/700/900/500",
+      "id": 6
+    },
+    {
+      "name": "lapTop",
+      "price": "1230",
+      "category": "computer",
+      "color": "red",
+      "description": "New Product",
+      "image": "https://picsum.photos/id/800/900/500",
+      "id": 7
+    },
+    {
+      "name": "lapTop",
+      "price": "1230",
+      "category": "computer",
+      "color": "red",
+      "description": "New Product",
+      "image": "https://picsum.photos/id/800/900/500",
+      "id": 9
+    },
+    {
+      "name": "lapTop",
+      "price": "1230",
+      "category": "computer",
+      "color": "red",
+      "description": "New Product",
+      "image": "https://picsum.photos/id/807/900/500",
+      "id": 10
+    }
+  ],
+  "carts": [],
+  "orders": []
+}
