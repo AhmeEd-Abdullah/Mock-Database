@@ -1,67 +1,114 @@
 {
   "seller": [],
-  "user": [
-    {
-      "name": "ahmed",
-      "email": "aa",
-      "password": "aaaa",
-      "id": 1
-    }
-  ],
+  "user": [],
   "products": [
     {
-      "name": "lapTop",
-      "price": "1230",
-      "category": "computer",
-      "color": "blue",
-      "description": "New Product",
-      "image": "https://picsum.photos/id/807/900/500",
+      "name": "Head Phone",
+      "price": "2000",
+      "category": "Sound",
+      "color": "Black",
+      "description": "High copy",
+      "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D",
+      "id": 1
+    },
+    {
+      "name": "Wristwatch",
+      "price": "3200",
+      "category": "Watchs",
+      "color": "White",
+      "description": "Guess",
+      "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D",
+      "id": 2
+    },
+    {
+      "name": "Glasses",
+      "price": "1600",
+      "category": "New Glasses",
+      "color": "Black",
+      "description": "Original",
+      "image": "https://images.unsplash.com/photo-1572635196237-14b3f281503f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8cHJvZHVjdHxlbnwwfHwwfHx8MA%3D%3D",
+      "id": 3
+    },
+    {
+      "name": "Shoes",
+      "price": "3940",
+      "category": "Sports",
+      "color": "Red",
+      "description": "Nike Brand",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D",
       "id": 4
     },
     {
-      "name": "lapTop",
-      "price": "1230",
-      "category": "computer",
-      "color": "green",
-      "description": "New Product",
-      "image": "https://mms.businesswire.com/media/20190122005342/en/701657/5/Samsung_Display_UHD_15.6_OLED_for_NBs_-_FMP.jpg?download=1",
+      "name": "i Watch",
+      "price": "2270",
+      "category": "Watchs",
+      "color": "Black",
+      "description": "New Watchs",
+      "image": "https://images.unsplash.com/photo-1546868871-7041f2a55e12?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTh8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D",
       "id": 5
     },
     {
-      "name": "lapTop",
-      "price": "1230",
-      "category": "computer",
-      "color": "blue",
-      "description": "New Product",
-      "image": "https://picsum.photos/id/700/900/500",
+      "name": "Back Bag",
+      "price": "1460",
+      "category": "Bags",
+      "color": "Green",
+      "description": "New Bags",
+      "image": "https://images.unsplash.com/photo-1491637639811-60e2756cc1c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjh8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D",
       "id": 6
     },
     {
-      "name": "lapTop",
-      "price": "1230",
-      "category": "computer",
-      "color": "red",
-      "description": "New Product",
-      "image": "https://picsum.photos/id/800/900/500",
+      "name": "Apple Screen",
+      "price": "6000",
+      "category": "Electronics",
+      "color": "White",
+      "description": "New Apple Products",
+      "image": "https://plus.unsplash.com/premium_photo-1681139760816-d0c39952f9ac?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mjl8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D",
       "id": 7
     },
     {
-      "name": "lapTop",
-      "price": "1230",
-      "category": "computer",
-      "color": "red",
-      "description": "New Product",
-      "image": "https://picsum.photos/id/800/900/500",
+      "name": "Bike",
+      "price": "5200",
+      "category": "Sports",
+      "color": "Black",
+      "description": "Original Bike",
+      "image": "https://images.unsplash.com/photo-1532298229144-0ec0c57515c7?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzR8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D",
+      "id": 8
+    },
+    {
+      "name": "iPhone",
+      "price": "2800",
+      "category": "Mobiles",
+      "color": "White",
+      "description": "New Mobile Version",
+      "image": "https://images.unsplash.com/photo-1555375771-14b2a63968a9?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OTl8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D",
       "id": 9
     },
     {
-      "name": "lapTop",
-      "price": "1230",
-      "category": "computer",
-      "color": "red",
-      "description": "New Product",
-      "image": "https://picsum.photos/id/807/900/500",
+      "name": "Gaming Mouse",
+      "price": "800",
+      "category": "Electronics",
+      "color": "Gray",
+      "description": "High Quality",
+      "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NzB8fHByb2R1Y3R8ZW58MHx8MHx8fDA%3D",
       "id": 10
+    },
+    {
+      "name": "Camera",
+      "price": "6000",
+      "category": "Electronics",
+      "color": "Black",
+      "description": "Proffesional Photos",
+      "image": "https://i1.adis.ws/i/canon/eos-r7-lifestyle_c604337a3b374a94a080d40b43f3a920?$70-30-header-4by3-dt-jpg$",
+      "id": 11
+    },
+    {
+      "name": "LapTop",
+      "price": "8000",
+      "category": "Computers",
+      "color": "Gray",
+      "description": "New From Dell ",
+      "image": "https://thumbs.dreamstime.com/b/laptop-computer-travel-37983668.jpg",
+      "id": 12
     }
   ],
   "carts": [],
